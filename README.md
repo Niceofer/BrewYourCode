@@ -1,8 +1,9 @@
 # BrewYourCode — Player Engine & Self-hosted Share
 
 <p align="center">
+  <strong>BrewYourCode is an AI-native game engine for making games without code.</strong><br />
   Run exported BrewYourCode projects with an engine and Share service you control.<br />
-  <strong>Desktop authoring app · project-bundle export · browser player engine</strong>
+  <strong>This repository: browser player engine · self-hosted Share service</strong>
 </p>
 
 <p align="center">

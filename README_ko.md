@@ -1,8 +1,9 @@
 # BrewYourCode — 플레이 엔진 & 자체 호스팅 Share
 
 <p align="center">
+  <strong>BrewYourCode는 코드 없이 게임을 만드는 AI 네이티브 게임 엔진입니다.</strong><br />
   내보낸 BrewYourCode 프로젝트를 직접 제어하는 엔진과 Share 서비스로 실행하세요.<br />
-  <strong>데스크톱 저작 앱 · 프로젝트 번들 내보내기 · 브라우저 플레이 엔진</strong>
+  <strong>이 저장소: 브라우저 플레이 엔진 · 자체 호스팅 Share 서비스</strong>
 </p>
 
 <p align="center">

@@ -1,8 +1,9 @@
 # BrewYourCode — プレイエンジン & セルフホスト Share
 
 <p align="center">
+  <strong>BrewYourCodeは、コードを書かずにゲームを作るAIネイティブゲームエンジンです。</strong><br />
   エクスポートしたBrewYourCodeプロジェクトを、自分で管理するエンジンとShareサービスで実行します。<br />
-  <strong>デスクトップ作成アプリ · プロジェクトバンドルの出力 · ブラウザプレイエンジン</strong>
+  <strong>このリポジトリ: ブラウザプレイエンジン · セルフホストShareサービス</strong>
 </p>
 
 <p align="center">
